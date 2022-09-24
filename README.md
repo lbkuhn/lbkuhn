@@ -9,7 +9,7 @@
   align='center'
 >
   <samp>
-    Full stack software developer at <a href='https://contexta360.com/'>Contexta360</a>. I specialise in TypeScript and Python :snake: and work with distributed cloud computing, microservice    
+    Software developer at <a href='https://contexta360.com/'>Contexta360</a>. I specialise in TypeScript and Python :snake: and work with distributed cloud computing, microservice    
     architectures, container technology, Linux, database management systems, version control, and agile methodologies.
   </samp>
 </p>
